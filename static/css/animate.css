@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  background-image:url("../img/wallpaper.jpg")
+  background-image:url("../img/wallpaper.jpg");
   overflow: scroll;
   background-size: 100vw 100vh;
   background-attachment: fixed
