@@ -1,7 +1,7 @@
 body{
   margin: 0;
   overflow: hidden;
-  background-image: url("../img/wall.jpg");
+  background-image: url("../img/wallpaper.jpg");
 }
 
 @media (max-width: 781px) {
