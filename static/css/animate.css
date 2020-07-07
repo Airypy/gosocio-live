@@ -2,13 +2,13 @@ body{
   margin: 0;
   overflow: hidden;
   background-image: url("../img/wallpaper.jpg");
-  background-size: auto;
+
   overflow: scroll;
   -webkit-overflow-scrolling:touch;
 }
 
 @media (max-width: 781px) {
-  body{background-image:url("../img/phonwall.jpg");background-repeat:no-repeat;}
+  body{background-image:url("../img/phonwall.jpg");background-repeat:no-repeat;background-size: auto;}
   ul { white-space: pre-line;}
 }
 
