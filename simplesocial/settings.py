@@ -24,9 +24,9 @@ TEMPLATE_DIR = os.path.join(BASE_DIR,'templates')
 SECRET_KEY = '(5qpl&b-b48^jszl@nz02#lgbw%tp(o)_wb!)b&k(j9*kueh@&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['airypysocio.herokuapp.com','127.0.0.1']
 
 
 # Application definition
