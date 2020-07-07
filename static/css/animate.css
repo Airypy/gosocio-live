@@ -1,8 +1,16 @@
-html {
-  background: url("../img/wallpaper.jpg") no-repeat center center fixed;
-  background-size: cover;
+body{
+  margin: 0;
+  background-image:url("../img/wallpaper.jpg")
+  overflow: scroll;
+  background-size: 100vw 100vh;
   height: 100%;
-  overflow: hidden;
+  -webkit-overflow-scrolling:touch;
+}
+
+
+@media (max-width: 781px) {
+  body{background-image:url("../img/phonwall.jpg");background-size: 100vw 100vh;}
+  ul { white-space: pre-line;}
 }
 
 *,
