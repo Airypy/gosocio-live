@@ -1,6 +1,13 @@
 body{
+  margin: 0;
+  overflow: hidden;
   background-image: url("../img/wall.jpg");
 }
+
+@media (max-width: 781px) {
+  ul { white-space: pre-line;}
+}
+
 *,
 *::before,
 *::after {
