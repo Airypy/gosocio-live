@@ -7,7 +7,7 @@ body{
 }
 
 @media (max-width: 781px) {
-  body{background-image:url("../img/phonwall.jpg");}
+  body{background-image:url("../img/phonwall.jpg");background-repeat:no-repeat;}
   ul { white-space: pre-line;}
 }
 
