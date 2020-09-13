@@ -6,4 +6,12 @@ Hello coders,
 
 To surf through the live-site visit: https://airypygosocio.herokuapp.com
 
+#SCREENSHOTS FOR MOBILE VIEW
+
+![Alt text](/designs/mobile_view.jpg?raw=true "mobile_view")
+
+#SCREENSHOTS FOR DESKTOP VIEW
+
+![Alt text](/designs/Desktopview.jpg?raw=true "Desktop_view")
+
 @airypy
