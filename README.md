@@ -12,6 +12,6 @@ To surf through the live-site visit: https://airypygosocio.herokuapp.com
 
 #SCREENSHOTS FOR DESKTOP VIEW
 
-![Alt text](/designs/Desktopview.jpg?raw=true "Desktop_view")
+![Alt text](/designs/Desktopview.png?raw=true "Desktop_view")
 
 @airypy
